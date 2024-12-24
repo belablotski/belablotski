@@ -1,4 +1,4 @@
-baseURL = 'https://belablotski.github.io'
+baseURL = 'https://belablotski.github.io/belablotski/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Aliaksei Belablotski'
 theme = 'ananke'

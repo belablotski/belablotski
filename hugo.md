@@ -24,3 +24,4 @@
 
 1. Local site `hugo server`
 2. Preview your work before publishing `hugo server --buildDrafts --buildFuture`
+3. `hugo server --navigateToChanged`
